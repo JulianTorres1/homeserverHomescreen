@@ -1,0 +1,20 @@
+{
+  "name": "homeserverhomescreen",
+  "version": "1.0.0",
+  "description": "a home screen for my local home server.",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "homeserver"
+  ],
+  "author": "Nicolas Torres",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons": "^1.9.1",
+    "live-server": "^1.2.2"
+  }
+}
